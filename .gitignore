@@ -1,0 +1,19 @@
+# Local API credentials
+**/APIConfig.json
+.env
+.env.*
+!.env.example
+
+# Xcode user settings and generated files
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcarchive
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# macOS
+.DS_Store
+.AppleDouble
